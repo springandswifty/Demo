@@ -1,0 +1,441 @@
+2018-08-01 20:57:20,817-DEBUG-my_log.py-python8-日志信息:这个是我们自己写的日志类
+2018-08-01 20:58:56,732-DEBUG-my_log.py-python8-日志信息:这个是我们自己写的日志类
+2018-08-01 21:07:08,524-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:08,682-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'data': None, 'code': '10001', 'msg': '注册成功'} != {'status': 0, 'data': None, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:07:08,682-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'data': None, 'code': '10001', 'msg': '注册成功'} != {'status': 0, 'data': None, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:07:08,770-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:08,770-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:08,770-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:08,772-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:08,772-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:08,772-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:08,772-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,032-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,032-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,032-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,032-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,032-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,034-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,255-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,256-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:07:09,523-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,238-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,394-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'data': None, 'status': 1, 'code': '10001', 'msg': '注册成功'} != {'data': None, 'status': 0, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:09:24,394-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'data': None, 'status': 1, 'code': '10001', 'msg': '注册成功'} != {'data': None, 'status': 0, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:09:24,505-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,505-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,505-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,507-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,507-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,507-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,507-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,857-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,857-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,857-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,857-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,857-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:24,858-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,184-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,185-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:25,443-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,427-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,562-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'data': None, 'code': '10001', 'msg': '注册成功'} != {'status': 0, 'data': None, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:09:32,562-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'data': None, 'code': '10001', 'msg': '注册成功'} != {'status': 0, 'data': None, 'code': '20110', 'msg': '手机号码已被注册'}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 21:09:32,659-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,659-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,659-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,660-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,660-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,660-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,660-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,884-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,884-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,884-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,884-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,884-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:32,885-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,157-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,158-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 21:09:33,417-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,202-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,349-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'code': '10001', 'msg': '注册成功', 'data': None} != {'status': 0, 'code': '20110', 'msg': '手机号码已被注册', 'data': None}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 22:03:58,349-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'status': 1, 'code': '10001', 'msg': '注册成功', 'data': None} != {'status': 0, 'code': '20110', 'msg': '手机号码已被注册', 'data': None}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 22:03:58,458-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,458-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,458-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,459-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,459-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,459-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,459-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,686-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,980-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:58,981-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:03:59,207-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:38,813-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:38,962-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '注册成功', 'data': None} != {'code': '20110', 'status': 0, 'msg': '手机号码已被注册', 'data': None}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 22:14:38,962-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '注册成功', 'data': None} != {'code': '20110', 'status': 0, 'msg': '手机号码已被注册', 'data': None}
+- {'code': '10001', 'data': None, 'msg': '注册成功', 'status': 1}
+?             ---                           --             ^
+
++ {'code': '20110', 'data': None, 'msg': '手机号码已被注册', 'status': 0}
+?           +++                           ++++++               ^
+
+2018-08-01 22:14:39,059-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,059-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,059-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,060-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,060-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,060-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,060-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,287-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,287-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,287-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,287-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,287-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,288-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,552-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,554-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,786-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,788-INFO-my_log.py-python8-日志信息:我要开始测试啦！
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:39,971-ERROR-my_log.py-python8-日志信息:执行用例的时候报错:{'code': '10001', 'status': 1, 'msg': '充值成功', 'data': None} != {'code': '10001', 'status': 1, 'msg': '充值成功', 'data': {'pwd': 'E10ADC3949BA59ABB [truncated]...
+- {'code': '10001', 'data': None, 'msg': '充值成功', 'status': 1}
++ {'code': '10001',
++  'data': {'id': 19529,
++           'leaveamount': '100.00',
++           'mobilephone': '13690900018',
++           'pwd': 'E10ADC3949BA59ABBE56E057F20F883E',
++           'regname': '小蜜蜂',
++           'regtime': '2018-07-31 17:23:48.0',
++           'type': '1'},
++  'msg': '充值成功',
++  'status': 1}
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
+2018-08-01 22:14:40,076-INFO-my_log.py-python8-日志信息:我已经结束测试啦！
